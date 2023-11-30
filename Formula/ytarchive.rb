@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 class Ytarchive < Formula
   desc 'Archive live and upcoming Youtube.com live streams'
   homepage 'https://github.com/Kethsar/ytarchive'
